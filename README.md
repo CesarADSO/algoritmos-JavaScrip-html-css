@@ -58,6 +58,16 @@ Cada botón ejecuta un algoritmo distinto mediante `alert()` y `prompt()`:
 
 ---
 
+## Contacto
+
+Si deseas conectar conmigo, puedes hacerlo a través de:
+
+* GitHub: https://github.com/CesarADSO
+* LinkedIn: https://www.linkedin.com/in/cesarr-c-morales-gonz%C3%A1lez-1b182a352/
+* Correo: cesaramorales1103@gmail.com
+
+---
+
 ## Notas
 
 * Los algoritmos están pensados como ejemplos educativos y usan `alert()` y `prompt()` para la interacción.
